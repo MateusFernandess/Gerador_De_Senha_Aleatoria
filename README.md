@@ -1,4 +1,3 @@
-
 # Gerador de Senhas Aleatórias
 
 ![Tela Inicial](https://github.com/MateusFernandess/Gerador_De_Senha_Aleatoria/assets/64085410/bb5d9020-5de1-4292-a772-59cbbde4e2a3) 
